@@ -1,6 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 .py
 .txt
+=======
+>>>>>>> b764658ae0d18010be8140bbb979b22421b5ba81
 =======
 >>>>>>> b764658ae0d18010be8140bbb979b22421b5ba81
 # Byte-compiled / optimized / DLL files
@@ -163,7 +166,11 @@ cython_debug/
 #  and can be added to the global gitignore or merged into this file.  For a more nuclear
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 <<<<<<< HEAD
+<<<<<<< HEAD
 #.idea/
+=======
+#.idea/
+>>>>>>> b764658ae0d18010be8140bbb979b22421b5ba81
 =======
 #.idea/
 >>>>>>> b764658ae0d18010be8140bbb979b22421b5ba81
